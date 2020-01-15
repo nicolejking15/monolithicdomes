@@ -1,0 +1,64 @@
+.navbar {
+	background-color:#2d452d ! important;
+}
+
+.navbar .navbar-brand {
+	color:#c9c9c9 ! important;
+}
+
+.navbar .collapse .navbar-nav .nav-link {
+	color:#c9c9c9 ! important;
+}
+
+.navbar .collapse .navbar-nav .nav-link:hover {
+	color:#e1e1e1 ! important;
+}
+
+.carousel-caption {
+	background-color: #000 ! important;
+	opacity: 0.5;
+	color:#509f4d ! important;
+}
+
+#eco {
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(jumbotron.jpg);
+	background-size: cover;
+	background-position: 0 25%;
+	color:#fff;
+	text-align: right;
+	margin-bottom: 0;
+}
+
+.indexBorder {
+	border-style:solid;
+	border-top:none;
+	border-bottom:none;
+	border-color: #c9c9c9 ! important;
+}
+
+#vision {
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(jumbotronDome.jpg);
+	background-size: cover;
+	background-position: 0 25%;
+	color:#fff;
+	text-align: right;
+	margin-bottom: 0;
+}
+
+#whatAreThey {
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(adobeDome.jpg);
+	background-size: cover;
+	background-position: 0 25%;
+	color:#fff;
+	text-align: right;
+	margin-bottom: 0;
+}
+
+#materials {
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(ecoFriendlyMaterials.jpg);
+	background-size: cover;
+	background-position: 0 25%;
+	color:#fff;
+	text-align: right;
+	margin-bottom: 0;
+}
